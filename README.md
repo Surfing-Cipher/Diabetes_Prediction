@@ -276,9 +276,8 @@ You can deploy this project using:
 
 If you liked this project or want to collaborate, feel free to connect:
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🧠 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+- ✉️ Email: [abdullahzulfiqar068@gmail.com](mailto:abdullahzulfiqar068@gmail.com)
 
 ---
 
