@@ -272,15 +272,6 @@ You can deploy this project using:
 
 ---
 
-### ⭐ Connect with Me
-
-If you liked this project or want to collaborate, feel free to connect:
-
-- 🧠 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- ✉️ Email: [abdullahzulfiqar068@gmail.com](mailto:abdullahzulfiqar068@gmail.com)
-
----
-
 ### 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
